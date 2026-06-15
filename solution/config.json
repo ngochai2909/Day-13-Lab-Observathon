@@ -8,7 +8,7 @@
   "context_size": 1,
   "verbose_system": false,
   "timeout_ms": 0,
-  "max_completion_tokens": 280,
+  "max_completion_tokens": 420,
   "retry": {
     "enabled": true,
     "max_attempts": 4,
